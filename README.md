@@ -1,4 +1,4 @@
-# Level 2 — React Todo
+# Level 2 -> React Todo
 
 This is level 2 of the todo goat challenge.
 
@@ -11,3 +11,5 @@ Almost identical to level 1 but now uses :
 Still uses localStorage though.  
 Still terrible storage.  
 Just with component architecture now.
+
+<img width="1920" height="963" alt="Screenshot from 2026-05-17 16-39-38" src="https://github.com/user-attachments/assets/fa99b80b-17e7-47b4-83a3-a291b04a41e9" />
